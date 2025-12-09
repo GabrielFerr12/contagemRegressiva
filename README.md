@@ -14,7 +14,7 @@ Funcionalidades:
 -Layout responsivo;
 
 Estrutura do Projeto:
--index.html
+-index.html <br>
 -style.css
 -main.js
 
